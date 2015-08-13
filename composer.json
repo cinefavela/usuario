@@ -9,7 +9,7 @@
     ],
     "require": {},
     "autoload": {
-        "files": [ "Module.php", "bootstrap.php" ],
+        "files": [ "bootstrap.php" ],
         "psr-4": {
             "CineFavela\\Usuario\\": [ "src/", "tests/" ] 
         }
