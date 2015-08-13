@@ -1,3 +1,3 @@
 <?php 
 
-\CineFavela\Core\Application::getModuleManager()->register(new \CineFavela\Module());
+\CineFavela\Core\Application::getModuleManager()->register(new \CineFavela\Usuario\Module());
