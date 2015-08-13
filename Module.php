@@ -1,4 +1,5 @@
 <?php
+
 namespace CineFavela\Usuario;
 
 class Module extends \CineFavela\Core\Module\Module
