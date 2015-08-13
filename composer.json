@@ -11,7 +11,7 @@
     "autoload": {
         "files": ["bootstrap.php"],
         "psr-4": {
-            "CineFavela\\Usuario\\": [ "src/", "tests" ] 
+            "CineFavela\\Usuario\\": [ "src/", "tests/" ] 
         }
     }
 }
